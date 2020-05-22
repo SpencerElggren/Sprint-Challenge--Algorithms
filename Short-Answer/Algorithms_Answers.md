@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) Logarithmic
 
 
-b)
+b) Polynomial
 
 
-c)
+c) Constant
 
 ## Exercise II
 
