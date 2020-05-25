@@ -2,14 +2,15 @@
 
 ## Exercise I
 
-a)
+a) Logarithmic
 
 
-b)
+b) Polynomial
 
 
-c)
+c) Constant
 
 ## Exercise II
 
-
+Binary search using a function determining the state of an egg against the floor
+Logarithmic
